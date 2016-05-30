@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Square" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAABAAAAAAAAAABAAgAAAAAAA=</HashCode>
+      <FileName>Square.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Joker" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAEA=</HashCode>
+      <FileName>Joker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Number" Collapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAgAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Number.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Integer" Collapsed="true">
+    <Position X="16.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAQAAgAABAAAAAAAAAA=</HashCode>
+      <FileName>Integer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fraction" Collapsed="true">
+    <Position X="19" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAABAAAAAAAAAAAAAAAAAAEABAAAAAQAAAA=</HashCode>
+      <FileName>Fraction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SquareRoot" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAQAAAAABAAAAAAAAEA=</HashCode>
+      <FileName>SquareRoot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAIAAAQAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Function.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tan" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Tan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cos" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAQ=</HashCode>
+      <FileName>Cos.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sin" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAEAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Sin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Log" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAIAABAAAAAAAAAA=</HashCode>
+      <FileName>Log.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAgAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Ex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board&lt;, &gt;" Collapsed="true">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Validator" Collapsed="true">
+    <Position X="3.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAAAAEAAA=</HashCode>
+      <FileName>Validator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arithmetic" Collapsed="true">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arithmetic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Power" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAABA=</HashCode>
+      <FileName>Power.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Geometric" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geometric.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadratic" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Quadratic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller" Collapsed="true">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAAAAAAAEAAAAAAAAAAAIAAQAAAAAAAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="23.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics" Collapsed="true">
+    <Position X="21.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Graphics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
