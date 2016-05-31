@@ -4,8 +4,7 @@ class Sin :
 	public Function
 {
 public:
-	Sin();
+	Sin(double);
 	~Sin();
 	virtual void show();
 };
-

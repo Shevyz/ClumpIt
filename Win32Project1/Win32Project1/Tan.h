@@ -4,7 +4,7 @@ class Tan :
 	public Function
 {
 public:
-	Tan();
+	Tan(double );
 	~Tan();
 	virtual void show();
 };

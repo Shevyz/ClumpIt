@@ -4,7 +4,7 @@ class Log :
 	public Function
 {
 public:
-	Log();
+	Log(double );
 	~Log();
 	virtual void show();
 };

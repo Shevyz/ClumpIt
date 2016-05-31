@@ -1,10 +1,11 @@
 #pragma once
 #include "Number.h"
+
 class SquareRoot :
 	public Number
 {
 public:
-	SquareRoot();
+	SquareRoot(int);
 	~SquareRoot();
 	virtual void show();
 private:

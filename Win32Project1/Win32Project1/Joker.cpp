@@ -1,12 +1,10 @@
+#include "stdafx.h"
 #include "Joker.h"
 
-
-
-Joker::Joker()
+Joker::~Joker()
 {
 }
 
-
-Joker::~Joker()
+void Joker::show()
 {
 }

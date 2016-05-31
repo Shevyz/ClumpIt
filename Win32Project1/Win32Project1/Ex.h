@@ -4,7 +4,7 @@ class Ex :
 	public Function
 {
 public:
-	Ex();
+	Ex(double );
 	~Ex();
 	virtual void show();
 };

@@ -4,7 +4,7 @@ class Fraction :
 	public Number
 {
 public:
-	Fraction();
+	Fraction(int,int);
 	~Fraction();
 	virtual void show();
 private:

@@ -1,10 +1,11 @@
 #pragma once
 #include "Number.h"
+#include <iostream>
 class Integer :
 	public Number
 {
 public:
-	Integer();
+	Integer(int );
 	~Integer();
 	virtual void show();
 private:

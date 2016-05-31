@@ -16,7 +16,7 @@
 #include<vector>
 #include <iostream>
 
-//            0      1         2       3         4          5       6      7       8        9
+//            0      1         2       3         4          5       6      7       8        9         10
 enum squares { joker, function, fraction, integer, squareroot, logorithm, sinus, tangens, cosinus, exponential };
 
 template <int size>

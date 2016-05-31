@@ -4,7 +4,7 @@ class Joker :
 	public Square
 {
 public:
-	Joker();
+	Joker() { m_endValue = 0; }; //take away
 	~Joker();
 	virtual void show();
 };

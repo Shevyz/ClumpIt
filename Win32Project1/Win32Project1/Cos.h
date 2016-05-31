@@ -4,7 +4,7 @@ class Cos :
 	public Function
 {
 public:
-	Cos();
+	Cos(double);
 	~Cos();
 	virtual void show();
 };

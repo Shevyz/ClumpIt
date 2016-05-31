@@ -6,5 +6,6 @@ class Arithmetic :
 public:
 	Arithmetic();
 	~Arithmetic();
-};
+	virtual bool Validate(std::vector<int>);
 
+};
